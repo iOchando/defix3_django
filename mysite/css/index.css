@@ -1,0 +1,336 @@
+.kyc-email-verify-mobile-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(220, 220, 220, 0.33);
+  width: 390px;
+  height: 844px;
+}
+.kyc-email-verify-mobile-item {
+  position: absolute;
+  top: 78px;
+  left: 33px;
+  width: 325px;
+  height: 342px;
+  object-fit: cover;
+}
+.union-child,
+.union-inner,
+.union-item {
+  position: absolute;
+  top: 34px;
+  left: 48px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 15px;
+  height: 3px;
+}
+.union-inner,
+.union-item {
+  top: 42px;
+  width: 26px;
+}
+.union-inner {
+  top: 50px;
+  left: 59px;
+  width: 15px;
+}
+.union {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 26px;
+  height: 19px;
+  display: none;
+}
+.funds-20231,
+.hidden-1-icon {
+  position: absolute;
+  display: none;
+}
+.funds-20231 {
+  top: 209px;
+  left: 125px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.31em;
+  font-weight: 600;
+  width: 148px;
+  height: 14px;
+}
+.hidden-1-icon {
+  top: 207px;
+  left: 255px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.wel-come-icon,
+.wel-come-icon1 {
+  position: absolute;
+  top: 17px;
+  left: -102px;
+  width: 19px;
+  height: 17px;
+}
+.wel-come-icon1 {
+  top: 40px;
+  left: 328px;
+  display: none;
+}
+.kyc-email-verify-mobile-inner {
+  position: absolute;
+  top: 753.5px;
+  left: 31.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 326px;
+  height: 1px;
+}
+.line-icon {
+  position: absolute;
+  top: 185px;
+  left: 231px;
+  width: 68px;
+  height: 3px;
+  object-fit: cover;
+}
+.to-defix3,
+.welcome {
+  position: absolute;
+  text-align: center;
+}
+.to-defix3 {
+  top: 157px;
+  left: 37px;
+  letter-spacing: 0.61em;
+  font-weight: 900;
+  color: var(--color-white);
+  display: inline-block;
+  width: 320px;
+  height: 42px;
+}
+.welcome {
+  margin: 0;
+  top: 138px;
+  left: 120px;
+  font-size: 16px;
+  letter-spacing: 0.7em;
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--color-cornflowerblue);
+}
+.view-this-email {
+  text-decoration: none;
+  position: absolute;
+  top: 41px;
+  left: 153px;
+  font-size: var(--font-size-4xs);
+  letter-spacing: -0.01em;
+  color: var(--color-darkslateblue);
+  text-align: right;
+  display: inline-block;
+  width: 205px;
+  height: 14px;
+}
+.instagram-1,
+.twitter-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 718px;
+  left: 227px;
+  width: 21.71px;
+  height: 21.71px;
+  background-image: url(./public/twitter-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  opacity: 0.4;
+}
+.instagram-1 {
+  top: 721px;
+  left: 142px;
+  width: 15.87px;
+  height: 15.87px;
+  background-image: url(./public/instagram-1@3x.png);
+}
+.defix3-llc- {
+  margin: 0;
+}
+.defix3-llc-container {
+  top: 817px;
+  left: 45px;
+  font-size: var(--font-size-6xs);
+  height: 11px;
+}
+.defix3-llc-container,
+.report,
+.thank-you-for {
+  position: absolute;
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+  width: 302px;
+}
+.thank-you-for {
+  top: 789px;
+  left: 45px;
+  font-size: var(--font-size-6xs);
+  height: 21px;
+}
+.report {
+  text-decoration: underline;
+  top: 766px;
+  left: 41px;
+  font-size: 8px;
+  color: inherit;
+  height: 11px;
+}
+.group-icon {
+  position: absolute;
+  top: 35px;
+  left: 25px;
+  width: 107px;
+  height: 20px;
+  object-fit: cover;
+}
+.proyecto-nuevo-4-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 718.33px;
+  left: 183px;
+  width: 19px;
+  height: 19px;
+  background-image: url(./public/proyecto-nuevo-4-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  opacity: 0.4;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 420px;
+  left: 33px;
+  width: 325px;
+  height: 284px;
+  object-fit: cover;
+}
+.dear-fritz-we-container {
+  position: absolute;
+  top: 455px;
+  left: 63px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 267px;
+  height: 73px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 39px;
+  height: 39px;
+}
+.div,
+.group-child,
+.group-div {
+  position: absolute;
+}
+.group-div {
+  top: 532px;
+  left: 69px;
+  width: 39px;
+  height: 39px;
+}
+.div {
+  top: 540px;
+  left: 82px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.kyc-email-verify-mobile-inner1 {
+  position: absolute;
+  top: 532px;
+  left: 122px;
+  width: 39px;
+  height: 39px;
+}
+.div1 {
+  position: absolute;
+  top: 540px;
+  left: 137px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.kyc-email-verify-mobile-inner2 {
+  position: absolute;
+  top: 532px;
+  left: 175px;
+  width: 39px;
+  height: 39px;
+}
+.div2 {
+  position: absolute;
+  top: 540px;
+  left: 188px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.kyc-email-verify-mobile-inner3 {
+  position: absolute;
+  top: 532px;
+  left: 228px;
+  width: 39px;
+  height: 39px;
+}
+.div3 {
+  position: absolute;
+  top: 540px;
+  left: 243px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.kyc-email-verify-mobile-inner4 {
+  position: absolute;
+  top: 532px;
+  left: 281px;
+  width: 39px;
+  height: 39px;
+}
+.div4 {
+  position: absolute;
+  top: 540px;
+  left: 296px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.once-your-email-container {
+  position: absolute;
+  top: 588px;
+  left: 63px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 267px;
+  height: 52px;
+}
+.verify-account-1 {
+  position: absolute;
+  top: 188px;
+  left: 79px;
+  width: 231px;
+  height: 296px;
+  object-fit: cover;
+}
+.kyc-email-verify-mobile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
